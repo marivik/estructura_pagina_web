@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,11 +8,24 @@
     <title>Document</title>
 </head>
 <body>
-<header><h1>Producto:</h1></header>
-<section><img height="200" src="/imagenes/celular.png"/>
-    <p>$110000</p>
-    <p>15% OFF</p></section>
-    <footer><p>Envio Gratis</p></footer>
+<header><h1>Producto:</h1><header>
+</section><img height="200" src="/imagenes/celular.png"/>
+<ul>
+    <li>
+        $ 110000
+    </li>
+    <li>
+        15 % OFF
+    </li>
+</ul>
+<section>
+<footer>
+<h2>
+    Envio Gratis
+</h2>
+<footer></footer>
+
+  
     
 </body>
-</html>
+</html>  
